@@ -4,12 +4,9 @@
 ![ghent logo](https://raw.githubusercontent.com/mijung-kim/2018_winter_internship/master/images/ghent.jpg)  
 
 ### Supervisor:  
-  <a href="https://github.com/mijung-kim">Mijung Kim</a>m, Wesley De Neve
+  <a href="https://github.com/mijung-kim">Mijung Kim</a> , Wesley De Neve
 
- ### Members: <a href="https://github.com/PyeongKim">PyeongEun Kim</a>, <a href="https://github.com/juhlee">JuHyung Lee</a>, <a href="https://github.com/mijeongl"> MiJeong Lee </a>
-
-  Mi Jeong Lee  
-  Ju Hyung Lee  
+ ### Members: <a href="https://github.com/PyeongKim">PyeongEun Kim</a>, <a href="https://github.com/juhlee">JuHyung
 
 # Table of Contents
 * [Goal](#goal)  
