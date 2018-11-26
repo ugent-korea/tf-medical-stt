@@ -9,7 +9,7 @@
  ### Members: <a href="https://github.com/PyeongKim">PyeongEun Kim</a>, <a href="https://github.com/juhlee">JuHyung Lee, <a href="https://github.com/mijeongl">MiJeong Lee</a>
 
 # Table of Contents
-* [Goal](#goal)  
+* [Goal](#goals)  
 * [Getting Ready:](#initial)  
   * [Introduction](#introduction)  
   * [Installing docker](#docker)  
